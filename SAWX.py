@@ -1,8 +1,4 @@
 #SAW HACKING insta jb1lr
-import platform
-import os, platform
-os.system("cd $SAW/")
-os.system("xdg-open https://instagram.com/jb1lr?igshid=YmMyMTA2M2Y=")
 import requests, re, os, random, sys
 from bs4 import BeautifulSoup
 from random import choice
