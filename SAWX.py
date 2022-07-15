@@ -264,10 +264,8 @@ class Main:
 \033[93m      >=>    >>=>>=>>=>>     >=>     >=>      >=>     >=>
 \033[93m>=>    >=>  >>=       =>>     >=>   >=>        >=>   >=>
 \033[93m  >=>>=>   >=>         >=>     >=>>=>           >=>>=>
-\033[96m By SAW
-\33[mTELEGRAM:@SAWx404
-\33[mGithub: https://github.com/saw404x
-\33[mTELEGRAM:@SAW404x"""%(BM)))
+\33[mGithub: https://github.com/saw4x
+\33[mTELEGRAM:@SAWx404"""%(BM)))
 		print(
 			"""\033[1;96m
 	[1] = CRACK WITH PUBLIC ID
@@ -475,8 +473,11 @@ def _login():
 		print("""
             telegram SAW4x
                  SAW                              
-                    instagram jb1lr    
-                                           
+                    instagram jb1lr
+		    
+		   
+                      SAW 1# KURD ❤                
+		 ╰☆☆𝗜 𝗮𝗺 𝗻𝗼𝘁 𝗵𝗮𝗰𝗸𝗲𝗿☆☆╮
                                                                
 """)
 		coki = input("COOKIES: ")
@@ -492,3 +493,6 @@ if __name__=="__main__":
 		"clear"
 	)
 	_login()
+# saw hacking 
+# insta : jb1lr
+# ╰☆☆ 𝗜 𝗮𝗺 𝗻𝗼𝘁 𝗵𝗮𝗰𝗸𝗲𝗿, 𝗜 𝗮𝗺 𝘁𝗵𝗲 𝗿𝗲𝘀𝘂𝗹𝘁 𝗼𝗳 𝘆𝗼𝘂𝗿 𝘀𝗶𝗻𝘀! ☆☆╮
