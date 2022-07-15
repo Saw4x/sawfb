@@ -471,13 +471,12 @@ def _login():
 		try:os.mkdir("data")
 		except:pass
 		print("""
-            telegram SAW4x
+            telegram SAWx4x
                  SAW                              
                     instagram jb1lr
 		    
 		   
-                      SAW 1# KURD ❤                
-		 ╰☆☆𝗜 𝗮𝗺 𝗻𝗼𝘁 𝗵𝗮𝗰𝗸𝗲𝗿☆☆╮
+                      SAW 1# KURD ❤ #hacking              
                                                                
 """)
 		coki = input("COOKIES: ")
